@@ -1,7 +1,7 @@
 # PSIR
 PowerShell Incident Response
 
-##Description:
+## Description:
 PSIR is a PowerShell script that can be used to collect artifacts from a Windows Machine. PSIR is made so it can be used with PowerShell version 2. 
 
 PSIR can be used to:
@@ -26,11 +26,11 @@ PSIR can be used to:
 * Get Network Routes
 * Get task list
 
-##Usage:
+## Usage:
 - Place the PSIR folder under C:\ drive.
 - Make sure Autoruns is whitin the same folder.
 - Execute the PSIR.ps1 script.
 - A folder will be created at the Desktop location
 
-##To Do:
+## To Do:
 - [ ] Automate the analytics of the collected artifacts with Jupyter Notebooks
