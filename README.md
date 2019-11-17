@@ -1,5 +1,4 @@
-# PSIR
-PowerShell Incident Response
+# PSIR : PowerShell Incident Response
 
 ## Description:
 PSIR is a PowerShell script that can be used to collect artifacts from a Windows Machine. PSIR is made so it can be used with PowerShell version 2. 
