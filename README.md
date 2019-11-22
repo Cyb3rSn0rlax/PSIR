@@ -32,4 +32,5 @@ PSIR can be used to:
 - A folder will be created at the Desktop location
 
 ## To Do:
-- [ ] Automate the analytics of the collected artifacts with Jupyter Notebooks
+- [ ] Remote collection.
+- [ ] Automate the analytics of the collected artifacts with Jupyter Notebooks.
